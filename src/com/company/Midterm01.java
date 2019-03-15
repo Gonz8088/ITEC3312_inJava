@@ -10,5 +10,11 @@ public class Midterm01 {
             System.out.println(1/x);
             x++;
         }
+
+        // loop 2
+
+        for(x=2; x < 11; x++){
+            System.out.println(1/x);
+        }
     }
 }
